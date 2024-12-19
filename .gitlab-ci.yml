@@ -1,0 +1,4 @@
+include:
+  - project: "vivaaerobus/vb_solemti/devops/node"
+    ref: main
+    file: "programs/viva-global/admin/cf-app-20241114.pipeline.yml"
